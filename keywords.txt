@@ -1,0 +1,6 @@
+HTTPWiFiConnect KEYWORD1
+handleServer    KEYWORD2
+checkWiFi   KEYWORD2
+startServer KEYWORD2
+launchAP    KEYWORD2
+configWiFi  KEYWORD2

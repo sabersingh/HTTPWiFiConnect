@@ -1,6 +1,22 @@
-HTTPWiFiConnect KEYWORD1
-handleServer    KEYWORD2
-checkWiFi   KEYWORD2
-startServer KEYWORD2
-launchAP    KEYWORD2
-configWiFi  KEYWORD2
+#######################################
+# Syntax Coloring Map For HTTPWiFiConnect
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+HTTPWiFiConnect	KEYWORD1	HTTPWiFiConnect
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+handleServer	KEYWORD2
+checkWiFi	KEYWORD2
+startServer	KEYWORD2
+launchAP	KEYWORD2
+configWiFi	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
